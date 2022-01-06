@@ -1,0 +1,200 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+.top-main {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: rgb(41, 39, 39);
+  height: 50px;
+  text-align: center;
+}
+
+.menu {
+  color: white;
+  text-decoration: none;
+}
+
+.main {
+  max-height: 3508px;
+  max-width: 700px;
+  margin: auto;
+  padding: 0;
+  top: 0;
+  overflow-x: hidden;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  background-color: rgba(108, 103, 89, 0.146);
+  border-radius: 5px;
+  box-shadow: 5px 10px rgb(35, 36, 33, 0.5);
+}
+
+.left {
+  width: 25%;
+  float: left;
+  padding-left: 10px;
+  background-color: transparent;
+  box-shadow: none;
+}
+
+.right {
+  width: 73%;
+  float: right;
+  background-color: transparent;
+  padding-left: 10px;
+  border-left: 3px solid green;
+  border-radius: 0px;
+  box-shadow: none;
+}
+
+.name {
+  padding-bottom: 10px;
+}
+
+.exp {
+  font-size: 15px;
+  padding-bottom: 5px;
+}
+
+.detail {
+  padding-left: 10px;
+  font-size: 14px;
+}
+
+.des {
+  font-size: 14px;
+}
+
+.edu {
+  padding-bottom: 5px;
+}
+
+.day {
+  text-align: right;
+}
+
+ul {
+  list-style-type: square;
+  display: inline-block;
+}
+
+.des {
+  padding-left: 20px;
+}
+
+.image {
+  height: 50%;
+  width: 80%;
+  display: block;
+  margin: auto;
+  object-fit: contain;
+  object-position: 15% 100%;
+  border-radius: 50%;
+  padding-bottom: 20px;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 5px;
+}
+
+.ali-l {
+  float: left;
+}
+
+.ali-r {
+  float: right;
+  padding-right: 10px;
+}
+
+hr {
+  border: 0;
+  clear: both;
+  display: block;
+  width: 96%;
+  background-color: green;
+  height: 3px;
+  margin-bottom: 5px;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+.skills {
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+}
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+  text-align: center;
+}
+
+
+.html {
+  width: 70%; 
+  background-color: #04AA6D;
+  text-align: right;
+  height: 30px;
+  font-size: 80%;
+}
+
+.css {
+  width: 70%; 
+  background-color: #04AA6D;
+  text-align: right;
+  height: 30px;
+  font-size: 80%;
+}
+
+.js {
+  width: 60%; 
+  background-color: #04AA6D;
+  text-align: right;
+  height: 30px;
+  font-size: 80%;
+}
+
+.py {
+  width: 60%; 
+  background-color: #04AA6D;
+  text-align: right;
+  height: 30px;
+  font-size: 80%;
+}
+
+.catia {
+  width: 90%; 
+  background-color: #04AA6D;
+  text-align: right;
+  height: 30px;
+  font-size: 80%;
+}
+
+.nx {
+  width: 80%; 
+  background-color: #04AA6D;
+  text-align: right;
+  height: 30px;
+  font-size: 80%;
+}
+
+.ms {
+  width: 86.56%; 
+  background-color: #04AA6D;
+  text-align: right;
+  height: 30px;
+  font-size: 80%;
+}
